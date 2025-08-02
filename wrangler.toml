@@ -8,7 +8,7 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_ID = "Ov23linjoFzRMl7MhwmZ"
 GITHUB_OWNER = "KeenTurbo"
-GITHUB_REPO = "NavSphere"
+GITHUB_REPO = "navsphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://keenturbo.pp.ua/api/auth"
 NEXT_PUBLIC_API_URL="https://keenturbo.pp.ua"
